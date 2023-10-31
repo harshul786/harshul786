@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshul786&label=Profile%20views&color=0e75b6&style=flat" alt="harshul786" /> </p>
 
-- 🔭 I’m currently working with [Xpertzy](https://github.com/Xpertdeck)
+- 🔭 I’m currently working with [Datansh](datansh.com)
 
-- 🌱 I’m currently learning **React, Next, Tailwind, Backend-Firebase**
+- 🌱 I’m currently learning **React, Next, Tailwind, Backend-(Firebase, nodejs)**
 
 - 💬 Ask me about **React, Next**
 
